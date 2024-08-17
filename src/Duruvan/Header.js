@@ -6,7 +6,7 @@ import Home from "./Home";
 import About from "./About";
 import Portfolio from "./Portfolio";
 import Contact from "./Contact";
-import DJ from "./pic/dj.jpg";
+import DJ from "./pic/dd.jpg";
 function Header() {
     let head = ({ isActive }) => {
         return {
